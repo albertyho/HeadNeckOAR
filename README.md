@@ -1,2 +1,2 @@
-# Head & Neck OAR Evaluation Script
+# Head & Neck OAR Inference \& Evaluation Script
 Evaluating the performance
